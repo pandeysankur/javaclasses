@@ -1,4 +1,4 @@
-package ayush_javaCode.Encapsulation;
+package Ayush_Encapsulation;
 
 public class EmployeeMain {
     public static void main(String[] args) {

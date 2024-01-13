@@ -1,6 +1,6 @@
 package ayush_javaCode.CheckEncapsulation;
 
-import Encapsulation.Student;
+import Ayush_Encapsulation.Student;
 
 public class OuterStudent {
 

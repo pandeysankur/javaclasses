@@ -1,6 +1,6 @@
 package ayush_javaCode.CheckEncapsulation;
 
-import Encapsulation.Employee1;
+import Ayush_Encapsulation.Employee1;
 
 public class Outer_Employee1 {
     public static void main(String[] args) {
